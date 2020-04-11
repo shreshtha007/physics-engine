@@ -1,2 +1,2 @@
-# physics-engine
-forming more than 7 objects
+# staticSquare
+A static square made using Matter.js physics engine
